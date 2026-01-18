@@ -85,6 +85,7 @@ Performed cleaning and validation before analysis:
 
 ## 📬 Contact
 **Manish Sharma**  
+📧 [Gmail](manish.sh8724@gmail.com)
 LinkedIn: https://www.linkedin.com/in/manish-sharma-552b892b7/  
 GitHub: https://github.com/ms08724919483-ops
 
