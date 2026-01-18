@@ -53,7 +53,7 @@ Performed cleaning and validation before analysis:
 
 ---
 
-## 📊 KPIs Included (10+)
+## 📊 KPIs Included
 - Total Revenue  
 - Total Orders  
 - Total Units Sold  
@@ -76,7 +76,7 @@ Performed cleaning and validation before analysis:
 
 ---
 
-## 🔎 Key Insights (Example)
+## 🔎 Key Insights
 - Revenue shows clear seasonality with spikes during **Oct–Nov** (festive season)
 - Certain regions consistently outperform others in revenue contribution
 - A small set of products contributes a large share of total revenue (Pareto effect)
