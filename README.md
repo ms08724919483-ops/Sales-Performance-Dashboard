@@ -9,7 +9,7 @@ Interactive dashboard to analyze sales performance across **4 regions** and **12
 - Identified **growth trends** and **seasonal patterns** through monthly revenue + MoM comparisons
 - Cleaned and validated raw data in **Excel** (missing dates, invalid values, standardization)
 - Built **Power BI dashboard** with interactive filters (Region, Channel, Month)
-- Designed **10+ KPIs** including **MoM Growth**, **Return Rate**, and **Product Contribution**
+- Designed **10 KPIs** including **Revenue Growth**, **Return Rate**, and **Product Contribution**
 
 ---
 
