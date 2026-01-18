@@ -21,14 +21,14 @@ Interactive dashboard to analyze sales performance across **4 regions** and **12
 ---
 
 ## 📂 Repository Structure
+```
 Sales-Performance-Dashboard/
 │── README.md          ⭐ (most important)
 │
 ├── data/
-│   ├── raw/
-│   │   └── fact_sales_raw.csv
-│   └── cleaned/
-│       └── fact_sales_cleaned.xlsx
+│   ├── fact_sales_raw.csv
+│   ├──dim_customer.csv
+│   └── dim_product.csv
 │
 ├── sql/
 │   └── kpi_queries.sql
@@ -37,7 +37,7 @@ Sales-Performance-Dashboard/
 │   ├── Sales_Dashboard.pbix
 │   └── screenshots/
 │       └── dashboard_overview.png
-
+```
 
 
 ---
@@ -49,7 +49,6 @@ Performed cleaning and validation before analysis:
 - Fixed inconsistent region values (e.g., `N0rth → North`)
 - Created calculated fields: **Gross Amount**, **Discount Amount**, **Net Revenue**
 
-> Output used for analysis: `data/cleaned/fact_sales_cleaned.xlsx`
 
 ---
 
