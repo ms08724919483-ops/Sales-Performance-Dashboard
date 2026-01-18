@@ -67,15 +67,6 @@ Performed cleaning and validation before analysis:
 
 ---
 
-## 📈 Power BI Dashboard Pages (Suggested)
-1. **Executive Summary** — Revenue, Orders, MoM Growth, Return Rate, AOV  
-2. **Trends** — Monthly revenue trend + MoM growth  
-3. **Region Performance** — Revenue + Return rate by region/city  
-4. **Product Performance** — Top products + contribution analysis  
-5. **Customer Insights** — Top customers + segment performance  
-
----
-
 ## 🔎 Key Insights
 - Revenue shows clear seasonality with spikes during **Oct–Nov** (festive season)
 - Certain regions consistently outperform others in revenue contribution
