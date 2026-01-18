@@ -1,4 +1,4 @@
- # 📊Sales Performance Dashboard (2024) | Excel, SQL, Power BI
+ # 📊 Sales Performance Dashboard (2024) | Excel, SQL, Power BI
 
 Interactive dashboard to analyze sales performance across **4 regions** and **12 months** using **48,000+ sales records**. Focused on trend discovery, return behavior, and product contribution to support faster business decisions.
 
@@ -58,13 +58,12 @@ Performed cleaning and validation before analysis:
 - Total Orders  
 - Total Units Sold  
 - Average Order Value (AOV)  
-- Month-over-Month (MoM) Growth %  
+- Top 3 Types of Customers
 - Revenue Trend (Monthly)  
 - Return Rate %  
-- Revenue by Region / City  
-- Product Contribution %  
-- Channel Mix (Online/Retail/Distributor)  
-- Top Customers by Revenue  
+- Revenue by Region  
+- Product Contribution
+- Revenue by Channel  
 
 ---
 
@@ -86,28 +85,16 @@ Performed cleaning and validation before analysis:
 ---
 
 ## 🖼️ Dashboard Preview
-Add screenshots here:
 
-![Dashboard Overview](powerbi/screenshots/dashboard_overview.png)  
-![MoM Trend](powerbi/screenshots/trends_mom.png)  
-![Product Contribution](powerbi/screenshots/product_contribution.png)
+<img width="907" height="505" alt="Dashboard" src="https://github.com/user-attachments/assets/411a7e9d-1312-40c4-a0a5-3012a6924110" />
+  
 
----
 
-## ▶️ How to Run / Use
-### Option A: Power BI (recommended)
-1. Open `powerbi/Sales_Dashboard.pbix`
-2. Update dataset path if needed (Data source settings)
-3. Refresh visuals
 
-### Option B: SQL KPIs
-1. Import cleaned data into MySQL
-2. Run queries from `sql/kpi_queries.sql` to compute KPI tables/views
 
----
 
 ## 📬 Contact
 **Manish Sharma**  
-LinkedIn: <your-link-here>  
-GitHub: <your-link-here>
+LinkedIn: https://www.linkedin.com/in/manish-sharma-552b892b7/  
+GitHub: https://github.com/ms08724919483-ops
 
