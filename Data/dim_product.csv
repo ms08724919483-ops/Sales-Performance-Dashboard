@@ -1,0 +1,16 @@
+ProductKey,Product,Category,SubCategory,Brand,LaunchYear
+1,Laptop,Electronics,Computing,Nova,2021
+2,Phone,Electronics,Mobiles,Aster,2024
+3,Tablet,Electronics,Mobiles,Zenith,2022
+4,Monitor,Electronics,Computing,Aster,2023
+5,Keyboard,Accessories,Computing,Aster,2024
+6,Mouse,Accessories,Computing,Aster,2022
+7,Headphones,Accessories,Audio,Urban,2023
+8,Router,Electronics,Networking,Zenith,2023
+9,Webcam,Accessories,Computing,Peak,2022
+10,Printer,Office,Printing,Nova,2023
+11,UPS,Office,Power,Peak,2024
+12,External HDD,Electronics,Storage,Aster,2024
+13,USB Hub,Accessories,Computing,Zenith,2024
+14,Smartwatch,Electronics,Wearables,Nova,2022
+15,Projector,Electronics,AV,Peak,2022
