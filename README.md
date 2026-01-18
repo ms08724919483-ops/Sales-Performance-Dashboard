@@ -23,7 +23,6 @@ Interactive dashboard to analyze sales performance across **4 regions** and **12
 ## 📂 Repository Structure
 ```
 Sales-Performance-Dashboard/
-│── README.md          ⭐ (most important)
 │
 ├── data/
 │   ├── fact_sales_raw.csv
@@ -37,6 +36,7 @@ Sales-Performance-Dashboard/
 │   ├── Sales_Dashboard.pbix
 │   └── screenshots/
 │       └── dashboard_overview.png
+│── README.md          ⭐ (most important)
 ```
 
 
