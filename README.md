@@ -1,4 +1,4 @@
- # 📊 Sales Performance Dashboard (2024) | Excel, SQL, Power BI
+ # 📊 Sales Analytics Dashboard | Excel, SQL, Power BI
 
 Interactive dashboard to analyze sales performance across **4 regions** and **12 months** using **48,000+ sales records**. Focused on trend discovery, return behavior, and product contribution to support faster business decisions.
 
