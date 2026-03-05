@@ -76,7 +76,8 @@ Performed cleaning and validation before analysis:
 
 ## 🖼️ Dashboard Preview
 
-<img width="907" height="505" alt="Dashboard" src="https://github.com/user-attachments/assets/411a7e9d-1312-40c4-a0a5-3012a6924110" />
+<img width="987" height="570" alt="Dashboard" src="https://github.com/user-attachments/assets/73276c34-4fab-4a6b-ac93-da756869e0dd" />
+
   
 
 
